@@ -18,11 +18,11 @@ I've always been a lover of technology, and have been a nerd and gamer since bef
 #### Some of my recent projects:
 
 <a href="https://github.com/shadel96/Mental_Health_NLP">
-- Identifying Depression in Reddit Posts with Natural Language Processing
+##### Identifying Depression in Reddit Posts with Natural Language Processing
 </a>
 
 <a href="https://github.com/shadel96/xRayDeepLearning-Final" target="_blank">
-- Detecting Pneumonia in Chest Radiographs with Convolutional Neural Networks
+##### Detecting Pneumonia in Chest Radiographs with Convolutional Neural Networks
 </a>
 
 
