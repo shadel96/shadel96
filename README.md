@@ -19,14 +19,10 @@ I've always been a lover of technology, and have been a nerd and gamer since bef
 
 - <a href="https://github.com/shadel96/Mental_Health_NLP">Identifying Depression in Reddit Posts with Natural Language Processing</a>
 
-<a href="https://github.com/shadel96/xRayDeepLearning-Final" target="_blank">
-##### Detecting Pneumonia in Chest Radiographs with Convolutional Neural Networks
-</a>
+- <a href="https://github.com/shadel96/xRayDeepLearning-Final" target="_blank">Detecting Pneumonia in Chest Radiographs with Convolutional Neural Networks</a>
 
 
-<a href="https://github.com/shadel96/Terry_Stops_Analysis" target="_blank">
-- Analysis of Seattle Terry Stops using Machine Learning Models
-</a>
+- <a href="https://github.com/shadel96/Terry_Stops_Analysis" target="_blank">Analysis of Seattle Terry Stops using Machine Learning Models</a>
 
 
 
