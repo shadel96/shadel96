@@ -1,8 +1,11 @@
 ### Hello! 👋
 
-My name is Spencer Hadel, and I'm a data scientist and recent Flatiron School graduate! I've spent my adult life until this point working in the food service industry, and am excited to use my newfound skills to create more of an impact on the world I live in. A natural with computers and technology, I take pride in learning new tools and programming languages quickly, and in helping others learn as well.
+I'm a Data Scientist and recent Flatiron School graduate! I'm extremely passionate about applying my knowledge to create meaningful change in the world, whether that means engaging in projects with the potential for social impact, or learning about new cutting-edge technologies that could revolutionize the way we understand the world. I take pride in learning new tools and skills whenever I can, and also enjoy supporting anyone else with similar goals! I strongly believe that with the tools at our disposal and enough commitment to change, we can really impact people's lives for the better!
 
-I look forward to being able to apply my skills and aptitude to projects that can really make some changes for the better, and I can't wait to connect with others that feel the same way!
+Having spent the last decade in NYC's high-stress catering and food service world, I have developed an ability to adapt and work hard in all sorts of hectic environments. This world also taught me how to keep calm, and remain supportive and uplifting of colleagues in all sorts of situations. I am eager to fall into leadership roles and equally as happy to support others to pursue leadership roles around me.
+
+I've always been a lover of technology, and have been a nerd and gamer since before I can remember. In addition to my pursuit of learning more about Data Science and Machine Learning, I also dabble in video game development in Unity! I'm also always welcome to chat about anyone's nerdy interests, whether they be in the form of movies, TV, books, tabletop games or video games 🤓
+
 
 - 🔭 I’m currently working on finding a career that aligns with my passion!
 - 🌱 I’m currently learning/re-learning SQL, R, and Tableau to complement my existing data science knowledge in Python.
@@ -11,6 +14,21 @@ I look forward to being able to apply my skills and aptitude to projects that ca
 - 🤔 I’m always looking for help with discovering more ways to make an impact with data science!
 - 🗽 Based in New York City
 - 😄 Pronouns: He/Him/His
+
+#### Some of my recent projects:
+<a href="[https://github.com/shadel96/Mental_Health_NLP" target="_blank">
+Identifying Depression in Reddit Posts with Natural Language Processing
+</a>
+
+<a href="https://github.com/shadel96/xRayDeepLearning-Final" target="_blank">
+Detecting Pneumonia in Chest Radiographs with Convolutional Neural Networks
+</a>
+
+
+<a href="https://github.com/shadel96/Terry_Stops_Analysis" target="_blank">
+Analysis of Seattle Terry Stops using Machine Learning Models
+</a>
+
 
 
 #### 📫 Connect With Me:
