@@ -8,7 +8,7 @@ I've always been a lover of technology, and have been a nerd and gamer since bef
 
 
 - 🔭 I’m currently working on finding a career that aligns with my passion!
-- 🌱 I’m currently learning/re-learning SQL, R, and Tableau to complement my existing data science knowledge in Python.
+- 🌱 I’m currently advancing and integrating my knowledge of SQL, R, and Tableau to complement my existing talents with Python.
 - 👯 I’m looking to collaborate on any projects with the potential for social impact!
 - 💬 Ask me about my experience with Natural Language Processing and Convolutional Neural Networks
 - 🤔 I’m always looking for help with discovering more ways to make an impact with data science!
